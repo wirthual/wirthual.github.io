@@ -9,7 +9,9 @@ render_with_liquid: false
 
 This article describes the work done for adding MCAP support to LabPlot as part of the Season of KDE 2024.
 
+Here you can see the result of the project, a MCAP file is recorded in the browser and analyzed using LabPlot!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kK5QbFi90wA?si=OCwYmXHr-iD7F85r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Adding MCAP Support for LabPlot
 
