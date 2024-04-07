@@ -1,7 +1,7 @@
 ---
 title: "Season of KDE: Adding MCAP support to Labplot"
 author: wirthual
-date: 2024-04-05 20:00:00 +0800
+date: 2024-04-07 14:00:00 +0800
 categories: [Software Development, Open Source]
 tags: [c++, qt, mcap, data analysis, labplot, kde]
 render_with_liquid: false
