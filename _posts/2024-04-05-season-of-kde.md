@@ -7,7 +7,7 @@ tags: [c++, qt, mcap, data analysis, labplot, kde]
 render_with_liquid: false
 ---
 
-This article describes the work done for adding [MCAP](https://mcap.dev/) support to LabPlot as part of the Season of KDE 2024.
+This article describes the work done for adding [MCAP](https://mcap.dev/) support to [LabPlot](https://labplot.kde.org/) as part of the Season of KDE 2024.
 
 Here you can see the result of the project, a MCAP file is recorded in the browser and analyzed using LabPlot!
 
